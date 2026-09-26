@@ -180,7 +180,7 @@ Every check is scored: `OK`, `WARNING`, or `ERROR`. Each category also gets its 
 
 ## Reports generated
 
-Each run writes timestamped reports to `%USERPROFILE%\Desktop\Rapports_Maintenance\Boot\`:
+Each run writes timestamped reports to `%USERPROFILE%\Desktop\Maintenance_Reports\Boot\`:
 
 - `Rapport_Boot_<timestamp>.csv`
 - `Rapport_Boot_<timestamp>.json`
