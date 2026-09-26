@@ -180,7 +180,7 @@ Chaque contrôle reçoit un statut : `OK`, `AVERTISSEMENT`, ou `ERREUR`. Chaque 
 
 ## Rapports générés
 
-Chaque exécution écrit des rapports horodatés dans `%USERPROFILE%\Desktop\Maintenance_Reports\Boot\` :
+Chaque exécution écrit des rapports horodatés dans `%USERPROFILE%\Desktop\Maintenance_Reports\Check-Boot\` :
 
 - `Rapport_Boot_<horodatage>.csv`
 - `Rapport_Boot_<horodatage>.json`
