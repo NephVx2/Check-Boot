@@ -3,7 +3,7 @@
 🇫🇷 [Version française](README_FRENCH.md)
 
 **Author:** Nephren ([github.com/NephVx2](https://github.com/NephVx2))
-**Version:** 5.6
+**Version:** 6.0
 **Compatible:** Windows 10/11 — UEFI / Legacy BIOS — GPT / MBR — English & French Windows
 
 ---
